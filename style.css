@@ -35,4 +35,19 @@ body {
     max-width: 1600px;
 }
 
+.navbar-logo {
+    font-size: 2rem;
+    font-weigt: 600;
+    color: #fff;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.navbar-container .navbar-menu {
+    display: flex;
+    text-aligh: center;
+    gap: 1.5rem;
+    list-style: none;
+}
+
 
