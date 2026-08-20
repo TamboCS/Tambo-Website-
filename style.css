@@ -37,7 +37,7 @@ body {
 
 .navbar-logo {
     font-size: 2rem;
-    font-weigt: 600;
+    font-weight: 600;
     color: #fff;
     text-decoration: none;
     cursor: pointer;
@@ -45,7 +45,7 @@ body {
 
 .navbar-container .navbar-menu {
     display: flex;
-    text-aligh: center;
+    text-align: center;
     gap: 1.5rem;
     list-style: none;
 }
@@ -72,7 +72,7 @@ body {
     display: none;
     background: transparent;
     padding: 10px;
-    boder: none;
+    border: none;
     cursor: pointer;
 }
 
